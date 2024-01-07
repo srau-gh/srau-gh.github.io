@@ -1,0 +1,9 @@
+search_enabled: true
+
+sidebar:
+  - getting-started
+  - label: Section One
+    children:
+      - document-one
+      - document-two
+  - deployment
